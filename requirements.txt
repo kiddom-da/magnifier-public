@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit
+pandas
+Pillow
+
+# PDF processing
+pdf2image
+PyPDF2
+
+# AI/ML
+openai
+google-generativeai
+anthropic
+
+# Utils
+python-dotenv
+pydantic
+
+# Optional - for better PDF handling
+poppler-utils
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
