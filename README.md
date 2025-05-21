@@ -1,6 +1,8 @@
 # find-magnifier
 tool to locate magnifier and extract text following the symbol
 
+https://magnifier-finder.streamlit.app
+
 ## problem statement
 There are some books in PDF format, where some pages have magnifier symbols in the margin. 
 We want to 
